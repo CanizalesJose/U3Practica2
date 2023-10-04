@@ -44,7 +44,6 @@ document.addEventListener("DOMContentLoaded", function() {
             return;
         }
  
-
         // Validar edad (número positivo)
         const edadNum = parseInt(edad);
         if (isNaN(edadNum) || edadNum <= 0) {
