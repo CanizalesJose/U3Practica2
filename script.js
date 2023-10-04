@@ -57,7 +57,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
         mensajeError.textContent = mensaje;
  
-
         // Si todas las validaciones pasaron, puedes enviar el formulario o realizar otras acciones aquí
     });
 });
