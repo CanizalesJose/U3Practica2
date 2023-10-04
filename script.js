@@ -56,7 +56,6 @@ document.addEventListener("DOMContentLoaded", function() {
             mens3.textContent = "";
         }
  
-
         // Validar edad (número positivo)
         const edadNum = parseInt(edad);
         if (isNaN(edadNum) || edadNum <= 0) {
